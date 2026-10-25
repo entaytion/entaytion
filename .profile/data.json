@@ -1,0 +1,253 @@
+{
+ "key": "b5acc905",
+ "stars": 2,
+ "contributions": 69,
+ "repos": 11,
+ "followers": 16,
+ "languages": [
+  [
+   "Kotlin",
+   514300
+  ],
+  [
+   "Python",
+   156073
+  ],
+  [
+   "JavaScript",
+   3641
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 19,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 25,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 4
+ },
+ "pins": [
+  {
+   "name": "entinyGram",
+   "url": "https://github.com/entaytion/entinyGram",
+   "text": "Custom-pilled Telegram Android patchset — Ghost Mode privacy, anti-deletion, restrictions bypass, free AI translation, and zero ads.",
+   "fork": true,
+   "stars": 116,
+   "language": "Kotlin",
+   "topics": [
+    "adblock",
+    "android",
+    "kotlin",
+    "patchset",
+    "privacy",
+    "telegram",
+    "telegram-android",
+    "telegram-client"
+   ]
+  },
+  {
+   "name": "plugins",
+   "url": "https://github.com/entinyGram/plugins",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "TypeScript",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "entinyGram",
+   "url": "https://github.com/entaytion/entinyGram",
+   "text": "Custom-pilled Telegram Android patchset — Ghost Mode privacy, anti-deletion, restrictions bypass, free AI translation, and zero ads.",
+   "fork": true,
+   "stars": 116,
+   "language": "Kotlin",
+   "topics": [
+    "adblock",
+    "android",
+    "kotlin",
+    "patchset",
+    "privacy",
+    "telegram",
+    "telegram-android",
+    "telegram-client"
+   ]
+  },
+  {
+   "name": "tg-posts-parser",
+   "url": "https://github.com/entaytion/tg-posts-parser",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Debloater",
+   "url": "https://github.com/entaytion/Debloater",
+   "text": "A simple script for removing the built-in system applications.",
+   "fork": false,
+   "stars": 1,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "entaytion",
+   "url": "https://github.com/entaytion/entaytion",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "sts-gallery",
+   "url": "https://github.com/entaytion/sts-gallery",
+   "text": "Неофіційний Android-клієнт для сайтів на рушії STS (transphoto.org, busphoto.eu, fotobus.msk.ru)",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "iconify-mcp",
+   "url": "https://github.com/entaytion/iconify-mcp",
+   "text": "MCP server for searching and fetching icons from Iconify — 200k+ icons, 150+ sets",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "ugv-object-detection-system",
+   "url": "https://github.com/entaytion/ugv-object-detection-system",
+   "text": "Система виявлення наземних роботизованих комплексів (НРК) на базі нейромережі RT-DETR-L та базової моделі YOLOv8-L",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "ShchodniaParser",
+   "url": "https://github.com/entaytion/ShchodniaParser",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "register",
+   "url": "https://github.com/entaytion/register",
+   "text": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "TikTokCreator",
+   "url": "https://github.com/entaytion/TikTokCreator",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "AvroraParser",
+   "url": "https://github.com/entaytion/AvroraParser",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  }
+ ]
+}
