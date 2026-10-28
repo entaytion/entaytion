@@ -1,5 +1,5 @@
 {
- "key": "aa690c64",
+ "key": "f3335f83",
  "stars": 2,
  "contributions": 69,
  "repos": 11,
@@ -107,9 +107,13 @@
    {
     "c": 0,
     "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
     "today": true
    },
-   null,
    null,
    null,
    null
