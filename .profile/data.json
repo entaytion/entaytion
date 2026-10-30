@@ -1,9 +1,9 @@
 {
- "key": "f04dacf5",
+ "key": "c07433f4",
  "stars": 2,
  "contributions": 71,
  "repos": 11,
- "followers": 17,
+ "followers": 18,
  "languages": [
   [
    "Kotlin",
@@ -137,7 +137,7 @@
    "url": "https://github.com/entaytion/entinyGram",
    "text": "Custom-pilled Telegram Android patchset — Ghost Mode privacy, anti-deletion, restrictions bypass, free AI translation, and zero ads.",
    "fork": true,
-   "stars": 130,
+   "stars": 131,
    "language": "Kotlin",
    "topics": [
     "adblock",
@@ -166,7 +166,7 @@
    "url": "https://github.com/entaytion/entinyGram",
    "text": "Custom-pilled Telegram Android patchset — Ghost Mode privacy, anti-deletion, restrictions bypass, free AI translation, and zero ads.",
    "fork": true,
-   "stars": 130,
+   "stars": 131,
    "language": "Kotlin",
    "topics": [
     "adblock",
