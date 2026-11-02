@@ -1,5 +1,5 @@
 {
- "key": "e305ab71",
+ "key": "2bcffe90",
  "stars": 2,
  "contributions": 71,
  "repos": 11,
@@ -97,9 +97,13 @@
    {
     "c": 0,
     "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
     "today": true
    },
-   null,
    null,
    null,
    null,
