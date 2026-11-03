@@ -1,8 +1,8 @@
 {
- "key": "3182e62b",
- "stars": 2,
- "contributions": 73,
- "repos": 11,
+ "key": "8669ebf6",
+ "stars": 0,
+ "contributions": 72,
+ "repos": 8,
  "followers": 18,
  "languages": [
   [
@@ -11,7 +11,7 @@
   ],
   [
    "Python",
-   156073
+   125868
   ],
   [
    "JavaScript",
@@ -125,7 +125,7 @@
    "url": "https://github.com/entaytion/entinyGram",
    "text": "Custom-pilled Telegram Android patchset — Ghost Mode privacy, anti-deletion, restrictions bypass, free AI translation, and zero ads.",
    "fork": true,
-   "stars": 141,
+   "stars": 144,
    "language": "Kotlin",
    "topics": [
     "adblock",
@@ -154,7 +154,7 @@
    "url": "https://github.com/entaytion/entinyGram",
    "text": "Custom-pilled Telegram Android patchset — Ghost Mode privacy, anti-deletion, restrictions bypass, free AI translation, and zero ads.",
    "fork": true,
-   "stars": 141,
+   "stars": 144,
    "language": "Kotlin",
    "topics": [
     "adblock",
@@ -166,24 +166,6 @@
     "telegram-android",
     "telegram-client"
    ]
-  },
-  {
-   "name": "tg-posts-parser",
-   "url": "https://github.com/entaytion/tg-posts-parser",
-   "text": "",
-   "fork": false,
-   "stars": 1,
-   "language": "Python",
-   "topics": []
-  },
-  {
-   "name": "Debloater",
-   "url": "https://github.com/entaytion/Debloater",
-   "text": "A simple script for removing the built-in system applications.",
-   "fork": false,
-   "stars": 1,
-   "language": "Shell",
-   "topics": []
   },
   {
    "name": "entaytion",
@@ -237,15 +219,6 @@
    "fork": true,
    "stars": 0,
    "language": "JavaScript",
-   "topics": []
-  },
-  {
-   "name": "TikTokCreator",
-   "url": "https://github.com/entaytion/TikTokCreator",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Python",
    "topics": []
   },
   {
