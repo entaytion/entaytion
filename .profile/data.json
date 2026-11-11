@@ -1,7 +1,7 @@
 {
- "key": "77efce1",
+ "key": "a1ddccff",
  "stars": 0,
- "contributions": 77,
+ "contributions": 74,
  "repos": 8,
  "followers": 18,
  "languages": [
@@ -110,7 +110,7 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 0,
     "day": 11,
     "today": true
    },
@@ -120,7 +120,7 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 0,
   "longest": 4
  },
  "pins": [
