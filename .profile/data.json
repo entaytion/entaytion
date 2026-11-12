@@ -1,8 +1,8 @@
 {
- "key": "a1ddccff",
+ "key": "564b093b",
  "stars": 0,
- "contributions": 74,
- "repos": 8,
+ "contributions": 73,
+ "repos": 5,
  "followers": 18,
  "languages": [
   [
@@ -11,11 +11,7 @@
   ],
   [
    "Python",
-   125868
-  ],
-  [
-   "JavaScript",
-   3641
+   57184
   ]
  ],
  "days": [
@@ -112,15 +108,19 @@
    {
     "c": 0,
     "day": 11,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 12,
     "today": true
    },
-   null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 4
  },
  "pins": [
@@ -190,27 +190,9 @@
    "topics": []
   },
   {
-   "name": "iconify-mcp",
-   "url": "https://github.com/entaytion/iconify-mcp",
-   "text": "MCP server for searching and fetching icons from Iconify — 200k+ icons, 150+ sets",
-   "fork": false,
-   "stars": 0,
-   "language": "JavaScript",
-   "topics": []
-  },
-  {
    "name": "ugv-object-detection-system",
    "url": "https://github.com/entaytion/ugv-object-detection-system",
    "text": "Система виявлення наземних роботизованих комплексів (НРК) на базі нейромережі RT-DETR-L та базової моделі YOLOv8-L",
-   "fork": false,
-   "stars": 0,
-   "language": "Python",
-   "topics": []
-  },
-  {
-   "name": "ShchodniaParser",
-   "url": "https://github.com/entaytion/ShchodniaParser",
-   "text": "",
    "fork": false,
    "stars": 0,
    "language": "Python",
@@ -223,15 +205,6 @@
    "fork": true,
    "stars": 0,
    "language": "JavaScript",
-   "topics": []
-  },
-  {
-   "name": "AvroraParser",
-   "url": "https://github.com/entaytion/AvroraParser",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Python",
    "topics": []
   }
  ]
