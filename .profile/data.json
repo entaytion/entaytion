@@ -1,5 +1,5 @@
 {
- "key": "cba55196",
+ "key": "146fa4b5",
  "stars": 0,
  "contributions": 85,
  "repos": 5,
@@ -103,9 +103,13 @@
    {
     "c": 0,
     "day": 17,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 18,
     "today": true
    },
-   null,
    null,
    null,
    null
