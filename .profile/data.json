@@ -1,7 +1,7 @@
 {
- "key": "e9801824",
+ "key": "3df0668c",
  "stars": 0,
- "contributions": 102,
+ "contributions": 104,
  "repos": 5,
  "followers": 18,
  "languages": [
@@ -106,16 +106,20 @@
     "today": false
    },
    {
-    "c": 4,
+    "c": 6,
     "day": 18,
     "today": false
    },
    {
     "c": 11,
     "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
     "today": true
    },
-   null,
    null
   ]
  ],
