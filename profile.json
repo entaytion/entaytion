@@ -95,7 +95,7 @@
     ]
   },
   "projects": {
-    "source": "manual",
+    "source": "pinned",
     "repos": [
       "entinyGram",
       "ugv-object-detection-system"
