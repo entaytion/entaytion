@@ -1,8 +1,8 @@
 {
- "key": "527703eb",
+ "key": "da6173e4",
  "stars": 0,
- "contributions": 111,
- "repos": 5,
+ "contributions": 110,
+ "repos": 4,
  "followers": 18,
  "languages": [
   [
@@ -125,8 +125,8 @@
  },
  "pins": [
   {
-   "name": "entinyGram",
-   "url": "https://github.com/entaytion/entinyGram",
+   "name": "android",
+   "url": "https://github.com/entinyGram/android",
    "text": "Custom-pilled Telegram Android patchset — Ghost Mode privacy, anti-deletion, restrictions bypass, free AI translation, and zero ads.",
    "fork": true,
    "stars": 174,
@@ -139,38 +139,28 @@
     "privacy",
     "telegram",
     "telegram-android",
-    "telegram-client"
+    "telegram-client",
+    "entinygram",
+    "inugram"
    ]
   },
   {
    "name": "plugins",
    "url": "https://github.com/entinyGram/plugins",
-   "text": "",
+   "text": "Official plugins for entinyGram, built for the inugram plugin engine.",
    "fork": false,
    "stars": 5,
    "language": "TypeScript",
-   "topics": []
+   "topics": [
+    "inugram",
+    "plugins",
+    "telegram",
+    "typescript",
+    "entinygram"
+   ]
   }
  ],
  "all": [
-  {
-   "name": "entinyGram",
-   "url": "https://github.com/entaytion/entinyGram",
-   "text": "Custom-pilled Telegram Android patchset — Ghost Mode privacy, anti-deletion, restrictions bypass, free AI translation, and zero ads.",
-   "fork": true,
-   "stars": 174,
-   "language": "Kotlin",
-   "topics": [
-    "adblock",
-    "android",
-    "kotlin",
-    "patchset",
-    "privacy",
-    "telegram",
-    "telegram-android",
-    "telegram-client"
-   ]
-  },
   {
    "name": "entaytion",
    "url": "https://github.com/entaytion/entaytion",
